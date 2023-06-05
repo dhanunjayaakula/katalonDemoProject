@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>6e46c98d-b8c6-47ff-a583-2d3d938598c7</testSuiteGuid>
    <testCaseLink>
-      <guid>7a46fb97-6476-4880-a3ea-d7a22a35d1b7</guid>
+      <guid>6dec470e-9cdd-44eb-9455-a72ed2ec8a16</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Launch</testCaseId>
+      <testCaseId>Test Cases/launch</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

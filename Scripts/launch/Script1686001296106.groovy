@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.youtube.com/')
+WebUI.navigateToUrl('https://www.watchyesnetwork.com/')
 
-WebUI.click(findTestObject('Object Repository/Launch/Page_apple - YouTube/yt-icon_Back_logo-icon'))
+WebUI.click(findTestObject('Object Repository/Launch/Page_Watch  YES Network/button_DISMISS'))
 
 WebUI.closeBrowser()
 

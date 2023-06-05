@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e56c3b60-098d-4723-9265-84e090d6f70c</webElementGuid>
+      <webElementGuid>99ca5f26-7f76-4aad-a2ce-50ddd90f3a72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>IOS primary__button</value>
-      <webElementGuid>1ee129e1-f2e7-46f0-a5dc-3b849f239212</webElementGuid>
+      <webElementGuid>98092f38-6a69-45a4-9fe2-c8caace46f71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DISMISS</value>
-      <webElementGuid>e991e2df-45d4-4f75-94bd-34a55f9d17ff</webElementGuid>
+      <webElementGuid>3df23d91-d87a-4eb2-be3a-88083df19c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog modal-lg modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[@class=&quot;content-body-below-mainpart&quot;]/div[@class=&quot;content-body-below-subpart&quot;]/div[@class=&quot;content-body-below-subpart-dismiss-btn&quot;]/button[@class=&quot;IOS primary__button&quot;]</value>
-      <webElementGuid>65cabea5-68e4-4ec1-b07a-90291b260a0e</webElementGuid>
+      <webElementGuid>bd6173b5-dde6-416a-8915-eea3f7680b1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I use social account to login or have recently reset my password'])[1]/following::button[1]</value>
-      <webElementGuid>fa6c61af-d4e5-4f15-8850-6d5b400e2212</webElementGuid>
+      <webElementGuid>6f206abe-6fb8-492b-9f49-8c59c26f02bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SUBSCRIBE NOW!'])[1]/following::button[1]</value>
-      <webElementGuid>b33fbdf8-2dbe-41ea-b70b-d1d62d777182</webElementGuid>
+      <webElementGuid>cc249c13-2086-4d17-aa3a-13cc5597cbc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I have not recently reset my password'])[1]/preceding::button[1]</value>
-      <webElementGuid>1c09de70-2cd4-4f6c-a752-9100254dc17d</webElementGuid>
+      <webElementGuid>a4a3e4df-c0fb-4860-8f6b-6ac453f56d34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RESET PASSWORD'])[1]/preceding::button[1]</value>
-      <webElementGuid>210d7cf4-3558-4275-9580-cc2ba2b2b144</webElementGuid>
+      <webElementGuid>341dbd09-de10-4e44-a52e-529562479cf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='DISMISS']/parent::*</value>
-      <webElementGuid>267ae4b7-0590-48e1-af64-eef4603b108f</webElementGuid>
+      <webElementGuid>5dcf609f-f0ca-41cc-a053-fed89b94459e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div[2]/button</value>
-      <webElementGuid>23ab10f8-5a39-4ca4-9406-67025eedc5da</webElementGuid>
+      <webElementGuid>2328c848-c246-411f-9264-69a89ad5f65c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'DISMISS' or . = 'DISMISS')]</value>
-      <webElementGuid>a7a5dfec-5764-4c94-9ba0-35b2da3e3554</webElementGuid>
+      <webElementGuid>5e2e37d9-853d-4ca3-bc8a-457b7fd7c3b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
