@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-icon_Back_logo-icon</name>
+   <tag></tag>
+   <elementGuidId>df9f9507-eea5-442b-a7ce-b51317169189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#logo-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//yt-icon[@id='logo-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-icon</value>
+      <webElementGuid>ab5edd6c-15b4-43e7-af76-2243fd7641b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logo-icon</value>
+      <webElementGuid>f0279abf-a0ed-494d-aa6b-85c4a30730df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-logo</value>
+      <webElementGuid>7355ae26-abc2-4562-9f33-bf7cce8a5b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start&quot;)/ytd-topbar-logo-renderer[@id=&quot;logo&quot;]/a[@id=&quot;logo&quot;]/div[@class=&quot;style-scope ytd-topbar-logo-renderer&quot;]/ytd-logo[@class=&quot;style-scope ytd-topbar-logo-renderer&quot;]/yt-icon[@id=&quot;logo-icon&quot;]</value>
+      <webElementGuid>42af90ab-83d4-47af-8aef-e3e9f9e5fbaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//yt-icon[@id='logo-icon']</value>
+      <webElementGuid>6b891e4b-c2cf-4eea-9ef4-1ba25fcd4182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='logo']/div/ytd-logo/yt-icon</value>
+      <webElementGuid>fc0d1e14-4f6f-46c8-b1c7-0eea9d152022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::yt-icon[2]</value>
+      <webElementGuid>c118f4ad-f3a7-4590-b6db-9dea67ff1c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NaN / NaN'])[1]/following::yt-icon[4]</value>
+      <webElementGuid>b7c782ad-049e-41d1-9891-a03f5fda73eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip navigation'])[1]/preceding::yt-icon[2]</value>
+      <webElementGuid>e6442cde-c408-47cb-b1a4-24b15873c0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-logo/yt-icon</value>
+      <webElementGuid>a1ffbe5e-d435-434d-b41a-bcaf11bd5a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-icon[@id = 'logo-icon']</value>
+      <webElementGuid>f83bf0cc-97b2-4325-9f34-2326d4244217</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
