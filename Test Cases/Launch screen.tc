@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Launch</name>
+   <name>Launch screen</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6e67e73c-d6b4-49ae-9c1e-81a8cf89d8a1</testCaseGuid>
+   <testCaseGuid>b7c7c023-bd3f-4f12-bb91-4f2fb640ac76</testCaseGuid>
 </TestCaseEntity>

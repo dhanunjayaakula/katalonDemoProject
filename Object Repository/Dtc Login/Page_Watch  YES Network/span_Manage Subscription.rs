@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_LOGIN WITH YES APP ACCOUNT</name>
+   <name>span_Manage Subscription</name>
    <tag></tag>
-   <elementGuidId>0ece7c79-f225-4fdf-9c1e-ac514cc267f4</elementGuidId>
+   <elementGuidId>58389378-687c-451d-9e48-2fec97992b71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/button</value>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div[5]/div/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>530b383e-a1cc-41b2-8c0b-26acf01ffc5e</webElementGuid>
+      <value>span</value>
+      <webElementGuid>32a47690-2014-451b-ad7c-ffac70773586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>IOS secondary__button</value>
-      <webElementGuid>463d6654-c4c5-43f5-a187-4ca02509358f</webElementGuid>
+      <value>text </value>
+      <webElementGuid>7aa94f40-4843-4161-9cf0-1bde951296bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>LOGIN WITH YES APP ACCOUNT</value>
-      <webElementGuid>37e3657b-128c-4ed9-b77a-c8457acd0435</webElementGuid>
+      <value>Manage Subscription</value>
+      <webElementGuid>7ffa8980-06cf-42b2-8e9c-63598d8c7a95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;landing_page&quot;]/div[@class=&quot;login_section&quot;]/div[@class=&quot;TV_login&quot;]/div[2]/button[@class=&quot;IOS secondary__button&quot;]</value>
-      <webElementGuid>fac12227-1c96-4bde-ab8f-042daabcf429</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background background-light&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/div[@class=&quot;account--settings__main&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;account card&quot;]/div[@class=&quot;account--body  card-body&quot;]/div[@class=&quot;account--body__profile&quot;]/div[1]/div[@class=&quot;profile--sections&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>27f219f6-bcb8-4450-8c3c-e88ec6c5e678</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/button</value>
-      <webElementGuid>444ce1de-aeba-4c91-8a98-f8b7d610c334</webElementGuid>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div[5]/div/div/span</value>
+      <webElementGuid>28cb694e-b6ba-4e1a-a415-088eafabfc2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN WITH TV PROVIDER'])[1]/following::button[1]</value>
-      <webElementGuid>97811efd-dd11-4feb-94f9-c3deda22285c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[1]/following::span[1]</value>
+      <webElementGuid>fe900672-cab6-40c0-8886-a6ac4d52ff18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already subscribe to YES Network?'])[1]/following::button[2]</value>
-      <webElementGuid>3f37e5d5-4c23-4918-b276-ca36b3e73902</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA+WEB@CLEARBRIDGEMOBILE.COM'])[1]/following::span[1]</value>
+      <webElementGuid>225fddf2-f5ca-45fc-9673-a3e89c7a2307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe now for just $239.99/yr or $24.99/mo'])[1]/preceding::button[1]</value>
-      <webElementGuid>85da7eaa-427a-4b66-9007-67ae180365e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage YES Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>49b114cc-cd9d-43c6-a810-ea3460c6783c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introductory offer. Subject to territorial restrictions.'])[1]/preceding::button[1]</value>
-      <webElementGuid>8cc5805b-4fa3-47db-af74-90bc6cd3c8b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::span[2]</value>
+      <webElementGuid>113600af-3e36-4a83-ab94-3da6915b6d0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='LOGIN WITH YES APP ACCOUNT']/parent::*</value>
-      <webElementGuid>c3829be2-ce49-4415-8213-5761021517d4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manage Subscription']/parent::*</value>
+      <webElementGuid>ec81a743-4346-44ec-a043-40b1224ed6f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>e6381d29-e6bf-4a22-9b4b-8aed335df0a0</webElementGuid>
+      <value>//span</value>
+      <webElementGuid>0dca6890-762a-445d-ba24-c4083189e2db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'LOGIN WITH YES APP ACCOUNT' or . = 'LOGIN WITH YES APP ACCOUNT')]</value>
-      <webElementGuid>0ad3a5f8-4cfd-4ed9-af66-f7d7506900ac</webElementGuid>
+      <value>//span[(text() = 'Manage Subscription' or . = 'Manage Subscription')]</value>
+      <webElementGuid>39ab1a4f-b727-4921-8479-e639fca09a52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

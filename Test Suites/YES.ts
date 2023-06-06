@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Yes</name>
+   <name>YES</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6e46c98d-b8c6-47ff-a583-2d3d938598c7</testSuiteGuid>
+   <testSuiteGuid>49d1771a-a45b-437f-b24c-4fdddb1b2ed5</testSuiteGuid>
    <testCaseLink>
-      <guid>16391f57-f48d-4559-bbdc-8f95a39d34cb</guid>
+      <guid>b515cf6c-0ad7-4c46-942a-79eae2d0e17c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Launch</testCaseId>
+      <testCaseId>Test Cases/Launch screen</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6493f750-de31-4c3f-ac1f-3e4ad78f90cc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DTC Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
