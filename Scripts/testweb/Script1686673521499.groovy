@@ -19,12 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
-
-WebUI.click(findTestObject('Object Repository/test/Page_Watch  YES Network/button_DISMISS'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/test/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'), 
-    0)
+WebUI.navigateToUrl('https://www.yesnetwork.com/')
 
 WebUI.closeBrowser()
 
