@@ -19,14 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
+WebUI.navigateToUrl('https://www.youtube.com/')
 
-WebUI.click(findTestObject('Object Repository/test/Page_Watch  YES Network/button_DISMISS'))
+WebUI.setText(findTestObject('Object Repository/test/Page_YouTube/input_Skip navigation_search_query'), 'future radio short film')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/test/Page_Watch  YES Network/button_SUBSCRIBE NOW'), 0)
+WebUI.click(findTestObject('Object Repository/test/Page_YouTube/div'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/test/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'), 
-    'LOGIN WITH YES APP ACCOUNT')
+WebUI.click(findTestObject('Object Repository/test/Page_future radio short film - YouTube/yt-formatted-string_Future Radio  Short Fil_859454'))
 
 WebUI.closeBrowser()
 
