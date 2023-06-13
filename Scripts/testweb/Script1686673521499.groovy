@@ -25,7 +25,5 @@ WebUI.setText(findTestObject('Object Repository/test/Page_YouTube/input_Skip nav
 
 WebUI.click(findTestObject('Object Repository/test/Page_YouTube/div'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_future radio short film - YouTube/yt-formatted-string_Future Radio  Short Fil_859454'))
-
 WebUI.closeBrowser()
 
