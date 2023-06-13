@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f42c6357-5df8-44fa-8038-c1003ad65cf4</webElementGuid>
+      <webElementGuid>c215b3ec-7579-4bb6-963c-744d620c43ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>IOS secondary__button</value>
-      <webElementGuid>9e5dc428-ab9e-40f7-b2cd-c7b8da29e9b9</webElementGuid>
+      <webElementGuid>e65eca46-66b1-41b4-b712-95153ae6221b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LOGIN WITH YES APP ACCOUNT</value>
-      <webElementGuid>b8770a4c-2440-40cc-acff-8ec3360fd8e4</webElementGuid>
+      <webElementGuid>963876b7-4d35-4a25-aa58-c4f0803a5749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;landing_page&quot;]/div[@class=&quot;login_section&quot;]/div[@class=&quot;TV_login&quot;]/div[2]/button[@class=&quot;IOS secondary__button&quot;]</value>
-      <webElementGuid>dade6c3d-189f-48d5-80cf-0e9e3be6dc54</webElementGuid>
+      <webElementGuid>8b445b40-d403-41f6-9005-e9ff2a1e1936</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div/div/div[2]/button</value>
-      <webElementGuid>b143bb3d-97ac-429c-bd77-ee5666f09316</webElementGuid>
+      <webElementGuid>2999de05-e861-4613-b900-e9eeb75bd42a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN WITH TV PROVIDER'])[1]/following::button[1]</value>
-      <webElementGuid>98f48271-7878-4cb3-8ca8-f9ac4c654777</webElementGuid>
+      <webElementGuid>1cc06fe2-6699-4753-9962-5e7caee7a52b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already subscribe to YES Network?'])[1]/following::button[2]</value>
-      <webElementGuid>21c7cd6c-13e1-4c52-b561-c9bd4a5d6729</webElementGuid>
+      <webElementGuid>8c9064db-ccc6-4a08-8789-69d3fe809f56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe now for just $239.99/yr or $24.99/mo'])[1]/preceding::button[1]</value>
-      <webElementGuid>82aa145a-5920-48b3-b707-613bb7f759b1</webElementGuid>
+      <webElementGuid>0db24e40-d109-4de0-8ae1-d839e31ba497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Introductory offer. Subject to territorial restrictions.'])[1]/preceding::button[1]</value>
-      <webElementGuid>a90f434a-fd0a-4572-9978-f0bf4dd7c6bf</webElementGuid>
+      <webElementGuid>0425c396-de81-41c1-ab50-708055189ce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='LOGIN WITH YES APP ACCOUNT']/parent::*</value>
-      <webElementGuid>7bfc01e4-9c83-41fc-819c-d16c2c8dc4d3</webElementGuid>
+      <webElementGuid>edb35fe6-a0f9-490e-917c-e1f09abe61d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>77ed1eb7-4610-495f-bb9d-10c706d3ebf7</webElementGuid>
+      <webElementGuid>9cfd825f-91e3-401b-b6f4-2b2735c35000</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'LOGIN WITH YES APP ACCOUNT' or . = 'LOGIN WITH YES APP ACCOUNT')]</value>
-      <webElementGuid>abc9395b-87be-430c-b19c-10eb407580b8</webElementGuid>
+      <webElementGuid>598d5b07-d054-4965-aa67-371afc38c222</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
