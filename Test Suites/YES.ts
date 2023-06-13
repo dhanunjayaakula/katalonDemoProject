@@ -12,24 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>49d1771a-a45b-437f-b24c-4fdddb1b2ed5</testSuiteGuid>
    <testCaseLink>
-      <guid>b515cf6c-0ad7-4c46-942a-79eae2d0e17c</guid>
+      <guid>b3542f82-b61b-472d-864a-8df51759632c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Launch screen</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6493f750-de31-4c3f-ac1f-3e4ad78f90cc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/DTC Login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6d5bca04-d24a-4961-b573-8ac50927aa83</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/DTC_NS_Registration</testCaseId>
+      <testCaseId>Test Cases/testweb</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
