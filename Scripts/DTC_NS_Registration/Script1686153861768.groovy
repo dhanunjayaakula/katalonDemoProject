@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.watchyesnetwork.com/')
+WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
 
 WebUI.click(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/button_SUBSCRIBE NOW'))
 
@@ -30,7 +30,7 @@ int RN
 RN = ((Math.random() * 5000) as int)
 
 WebUI.setText(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/input_Email Address_email'), 
-     ('djay' + RN) + '@amdocs.com')
+    ('djay' + RN) + '@amdocs.com')
 
 WebUI.click(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/div_Password'))
 
@@ -39,7 +39,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/DTC non-subscriber flow
 
 WebUI.click(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/div_Date of Birth'))
 
-WebUI.setText(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/input_Date of Birth_dob'), '2000/01/01')
+WebUI.setText(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/input_Date of Birth_dob'), 
+    '2000/01/01')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/DTC non-subscriber flow/Page_Watch  YES Network/select_OptionalMaleFemaleOtherPrefer not to answer'), 
     'Male', true)

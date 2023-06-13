@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.watchyesnetwork.com/')
+WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
 
 WebUI.click(findTestObject('Object Repository/Dtc Login/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'))
 
-WebUI.setText(findTestObject('Object Repository/Dtc Login/Page_Watch  YES Network/input_Email_email'), 'qa+web@clearbridgemobile.com')
+WebUI.setText(findTestObject('Object Repository/Dtc Login/Page_Watch  YES Network/input_Email_email'), 'djay+stage@amdocs.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Dtc Login/Page_Watch  YES Network/input_Password_password'), 'p4y+y39Ir5Oy1MY8jPt0uQ==')
 

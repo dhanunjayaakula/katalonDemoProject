@@ -21,13 +21,12 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Launch/Page_Watch  YES Network/button_LOGIN WITH TV PROVIDER'), 
-    0)
+WebUI.click(findTestObject('Object Repository/test/Page_Watch  YES Network/button_DISMISS'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Launch/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/test/Page_Watch  YES Network/button_SUBSCRIBE NOW'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Launch/Page_Watch  YES Network/button_SUBSCRIBE NOW'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/test/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'), 
+    'LOGIN WITH YES APP ACCOUNT')
 
 WebUI.closeBrowser()
 
